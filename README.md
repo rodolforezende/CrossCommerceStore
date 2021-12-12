@@ -5,7 +5,7 @@ Se trata de uma API responsável por extrair um conjunto de número da basse de 
 O principal objetivo da aplicação é unir os dados extraídos e apresentá-los de forma ordenada.
 
 ## Tecnologias
-Foi utilizado como tecnologia principal o Node.JS, utilizado como arquiterura o modelo MSC.
+Foi utilizado como tecnologia principal o NodeJS, utilizado como arquiterura o modelo MSC.
 
 ## Como utilizar?
 
