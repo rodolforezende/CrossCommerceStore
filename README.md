@@ -4,13 +4,13 @@ Se trata de uma API responsável por extrair um conjunto de número da basse de 
 
 O principal objetivo da aplicação é unir os dados extraídos e apresentá-los de forma ordenada.
 
-## Bibliotecas/Linguagens
+## 🛠️ Bibliotecas/Linguagens
 * [Node](https://nodejs.org/en/) - Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
 * [express](https://expressjs.com/pt-br/) - Express.js é um framework para Node.js que fornece recursos mínimos para construção de servidores web.
 * [eslint](https://eslint.org/) - ESLint é uma ferramenta de análise de código estática para identificar padrões problemáticos encontrados no código JavaScript.
 * [axios](https://axios-http.com/docs/intro) - Axios é um cliente HTTP baseado-em-promessas para o node. js e para o navegador.
 
-## Como utilizar?
+## ⚙️ Como utilizar?
 
 Siga os códigos abaixo 👇 
 
@@ -55,6 +55,6 @@ Se trata de um projeto para demonstrar meus conhecimento em NodeJS, onde todos e
 
 Estou aberto para qualquer feedback, dicas ou orientações.
 
-<h2>Contato</h2>
+## Contato
 
 <a href="https://www.linkedin.com/in/rodolfo-rezende/">Linkedin</a> | <a href="mailto:rodolforrcont@gmail.com">Gmail</a>
