@@ -1,15 +1,28 @@
-const { consultFetch } = require('../model/index');
+const { start } = require('../model/index');
+
+function quicksort(array) {
+  if (array.length <= 1) {
+    return array;
+  }
+
+  const pivot = array[0];
+
+  const left = [];
+  const right = [];
+
+  for (let i = 1; i < array.length; i += 1) {
+    if (array[i] < pivot) {
+      left.push(array[i]);
+    } else {
+      right.push(array[i]);
+    }
+  }
+  return quicksort(left).concat(pivot, quicksort(right));
+}
 
 const callRegisters = async () => {
-  const response = [];
-  for (let i = 1; i < 10; i += 4) {
-    const resolve = [];
-    resolve.push(consultFetch(i));
-    resolve.push(consultFetch(i + 1));
-    resolve.push(consultFetch(i + 2));
-    resolve.push(consultFetch(i + 3));
-    response.push(Promise.all(resolve));
-  }
+  const result = await start();
+  const response = quicksort(result);
   return response;
 };
 
