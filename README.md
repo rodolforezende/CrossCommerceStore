@@ -51,9 +51,9 @@ Ao clicar na opção SEND da sua ferramenta de quesições HTTP, haverá uma esp
   
 ## Conclusão
 
-Se trata de um projeto para demonstrar meus conhecimento em NodeJS, onde todos estão convidados e sintam-se a vontade para darem o Code Review ou até mesmo fazerem implementações no mesmo.
+Trata-se de um projeto com a finalidade de demonstrar os meus conhecimento em NodeJS. Todos estão convidados a dar o Code Review ou até mesmo fazerem implementações.
 
-Estou aberto para qualquer feedback, dicas ou orientações.
+Estou aberto a qualquer feedback, dica ou orientação.
 
 ## Contato
 
