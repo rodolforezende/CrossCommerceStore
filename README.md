@@ -48,6 +48,6 @@ Ao clicar na opção SEND da sua ferramenta de quesições HTTP, haverá uma esp
   
 ## Conclusão
 
-Se trata de um projeto realizado afim de consolidar meus conhecimento em NodeJS, onde todos estão convidados e sintam-se a vontade para darem o Code Review ou até mesmo fazerem implementações no mesmo.
+Se trata de um projeto para demonstrar meus conhecimento em NodeJS, onde todos estão convidados e sintam-se a vontade para darem o Code Review ou até mesmo fazerem implementações no mesmo.
 
 Estou aberto para qualquer feedback, dicas ou orientações.
